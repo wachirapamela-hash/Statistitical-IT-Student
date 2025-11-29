@@ -1,0 +1,87 @@
+SUMMARY
+INTRODUCION TO INFORMATION TECHNOLOGY
+Definition: IT involves he study, design, development and management of computer-based information systems.
+Business Context: IT automates processes aids decision making connects businesses with customers and boosts productivity.
+Academic Context: IT specialists select and manage hardware/software, maintain networks, ensure security, and manage an organization’s technology lifecycle.
+	THE ROLE OF IT IN THE SOCIETY
+	Communication Revolution: IT has made instant global communication possible through email social media and video conferencing breaking down geographical barriers
+	Economic Driver: It powers e-commerce enables new business models and automates business processes for greater efficiency through tools like spreadsheet and database management systems
+	Access to information and education: The internet provides unprecedent access to information. E-learning platforms and digital classrooms make education more flexible and accessible than ever before.
+	Advancement in healthcare: IT enables telemedicine electronic health records and powers advanced medical research and diagnostic equipment.
+	E-governance: It improves access o government services increases transparency and facilitates civic engagement through online platforms.
+	Entrainment and Leisure: IT has reshaped entrainment through on-demand streaming services online gaming and personalized content.
+
+In conclusion, while it presents challenges like the digital divide and security concerns, it’s role as a driver of efficiency, connectivity and innovation is indispensable in today’s world.
+ 
+COMPUTER FUNDAMENTALS
+Computer: an electronic device programmed o accepts input process I and produce output
+Key Hardware components:
+•	CPU- The brain that executes instructions
+•	Memory (RAM)- Fast temporary storage for data and process in use
+•	Mass Storage (HDD/SSD)- slower permanent storage for data and programs
+•	Input/ Output Devices- tangible components of a computer e.g., keyboard mouse (input) monitor and printer (output)
+Computer classification:(by power and size)
+	Personal computers- single user microprocessor based
+	Worksaion- powerful single user computer for specialized asks e.g.; AD
+	Minicomputers- supports up to hundreds of users simultaneously
+	Mainframe- supports thousands of users; eels a running many programs concurrently
+	Supercomputer- extremely fast; designed for intense calculations (e.g.; weather forecasting)
+Characteristics of a computer:
+o	It responds to a set of intrusions in a well-defined manner
+o	It can execute prerecorded instructions
+o	It can quick sore and retrieve large amounts of data
+
+Types of personal computers;
+	Notebook computer
+	Laptop computer
+	Subnotebook computer
+	Hand-held computer
+	Palmtop
+	PDA
+
+
+	
+ 
+COMPUTER SOFTWARE BASICS
+1.	System software: manages hardware and provides platform for running application software
+2.	Operating systems: manages resources (CPU Memory) asks files and provides a user interface Key functions include resource, task and file management
+3.	Utility software: tools for system maintenance (e.g., antivirus backup disk defragmentation file compression)
+4.	Application software: programs for end users to perform specific tasks (e.g., word processors spreadsheets)
+KEY APPLICATION SOFWARE
+I.	Word processing: used for creating editing and forming text documents
+i.	: Key features- insert/delete, copy/paste, spell check, fonts, headers/footers	
+II.	Spreadsheets: a grid of rows and columns for managing and calculating data
+i.	: key features- cell (intersection between a row and column) formula (calculation) Function (predefined formula e.g., SUM)
+Types of cell referencing
+	Relative: Adjusts when copied (e.g., A1)
+	Absolute: remains fixed when copied (e.g., $A$1)
+	Mixed combination (e.g., A$1)
+Charts- visual representation of data (bar, line, pie, scatter)
+
+
+
+
+
+
+
+
+	
+ 
+DATA ORGANISATION AND STORAGE
+1)	Data Files: store data for applications no instructions
+2)	Serial/Sequential Files: Records stored in the order in which they were created. Simple to read but slow to search (like a cassette tape)
+3)	Random Access Files: records have a fixed length, allowing direct access to any record without reading all previous ones. Fast but can waste storage space
+Storage terms:
+	Track: A circular path on a disk
+	Sector: A subdivision on a track
+	Luser: A group of sectors managed by the operating system
+DATA REPRESENTATION & DIGITAL CONCEPTS
+Data vs Information: Data is raw facts. Information is data that has been processed and given meaning
+Bit &Byte: A bit is he smallest unit (0 or 1). A byte is 8 bits and represents a single character.
+	Number systems:
+•	Binary: Based-2 system (0,1). The naïve language of computers.
+•	Hexadecimal: Based-16 system (0-9, A-F). A compact way to represent binary
+•	Octal: Based-8 system (0-7)
+Analog vs Digital signals:
+Analog- continuous waves, represents real-world data (e.g., human voice). Prone to noise
+Digital- Discrete on/off signals (0s and 1s). Most reliable, easier to sore, and error-resistant)
